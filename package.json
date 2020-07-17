@@ -1,5 +1,5 @@
 {
-  "name": "aöpha_blog",
+  "name": "alpha_blog",
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
